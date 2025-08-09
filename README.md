@@ -15,16 +15,6 @@
 
 ---
 
-## Cómo usar
-
-1. Clonar el repositorio
-2. 
-3. 
-
----
-
-Si quieres que te arme un README completo con más secciones o estilo, dime qué datos quieres incluir.
-
 #  Mi Proyecto Increíble
 
 ![Logo del Proyecto](ruta/a/tu/logo.png)
@@ -46,7 +36,7 @@ Si quieres que te arme un README completo con más secciones o estilo, dime qué
 
 ---
 
-## 📝 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Este proyecto tiene como objetivo [explicar brevemente el propósito del proyecto].  
 Está diseñado para [mencionar el público objetivo o el problema que resuelve].
