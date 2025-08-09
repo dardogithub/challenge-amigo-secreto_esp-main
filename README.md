@@ -1,3 +1,4 @@
 <h1 align="center"> dardogithub </h1>
-![](./Downloads/D.gif)
+
+![asd](file:///C:/Users/Dardo/Downloads/D.gif)
 
