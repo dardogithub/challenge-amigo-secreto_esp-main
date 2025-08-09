@@ -7,19 +7,19 @@
 
 ---
 
-## Datos del proyecto
-
-- Autor: 
-- Repositorio: [dardogithub](https://github.com/dardogithub/challenge-amigo-secreto_esp-main)
-- Descripción: 
-
----
-
 #  Mi Proyecto Increíble
 
 ![Logo del Proyecto](ruta/a/tu/logo.png)
 
 > Una breve descripción de lo que hace tu proyecto.
+
+---
+
+## Datos del proyecto
+
+- Autor: 
+- Repositorio: [dardogithub](https://github.com/dardogithub/challenge-amigo-secreto_esp-main)
+- Descripción:
 
 ---
 
