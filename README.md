@@ -28,16 +28,10 @@
 
 ---
 
-##  Descripción del Proyecto
+##  Descripción del Proyecto ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 
 Aplicación web sencilla para organizar y realizar un sorteo de **Amigo Secreto**.  
 Permite agregar nombres a una lista, validarlos y mostrar en pantalla el resultado del sorteo de manera aleatoria.
-
----
-
-##  Estado del Proyecto
-
-![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 
 ---
 
