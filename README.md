@@ -37,9 +37,11 @@ Permite agregar nombres a una lista, validarlos y mostrar en pantalla el resulta
 
 ##  Características
 
-- [Característica 1]
-- [Característica 2]
-- [Característica 3]
+- Interfaz simple y facil de usar
+- Permite agregar nombres de forma rápida
+- Validacion automatica de datos
+- Visualización clara de la lista de participantes
+- Sorteo aleatorio con un solo clic
 
 ---
 
@@ -53,9 +55,11 @@ Puedes ver una demostración en vivo aquí: [Enlace a la demo]
 
 ##  Tecnologías Utilizadas
 
-- [Tecnología 1]
-- [Tecnología 2]
-- [Tecnología 3]
+- **HTML5** → estructura y contenido de la página.
+- **CSS3** → estilos y diseño visual.
+- **JavaScript (ES6)** → lógica de la aplicación y manejo del DOM.
+- **Git** → control de versiones.
+- **Visual Studio Code** → editor de código.
 
 ---
 
