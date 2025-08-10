@@ -33,6 +33,8 @@
 Aplicación web sencilla para organizar y realizar un sorteo de **Amigo Secreto**.  
 Permite agregar nombres a una lista, validarlos y mostrar en pantalla el resultado del sorteo de manera aleatoria.
 
+Actualmente se encuentra **en proceso de desarrollo**, por lo que el código seguirá mejorándose y optimizándose en el futuro.
+
 ---
 
 ##  Características
@@ -63,12 +65,23 @@ Puedes ver una demostración en vivo aquí: [Enlace a la demo]
 
 ---
 
-##  Instalación
+##  Instalación y Uso
+
+### Instalación
 
 Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
-```bash
-git clone https://github.com/tuusuario/tu-repositorio.git
-cd tu-repositorio
-npm install
-npm start
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/usuario/nombre-del-repo.git
+2. Abre la carpeta del proyecto.
+3. Abre el archivo index.html en tu navegador.
+
+### Uso
+
+1. Ingresa un nombre en el campo de texto.
+3. Haz clic en "Adicionar" para agregarlo a la lista.
+4. Repite hasta añadir todos los nombres.
+5. Presiona "Sortear Amigo" para mostrar el resultado.
+
+   
