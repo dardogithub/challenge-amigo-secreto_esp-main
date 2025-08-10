@@ -9,7 +9,27 @@
 
 #  Proyecto: Amigo Secreto  ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 
-![Logo del Proyecto](media/amigoSecreto.png)
+<img src="media/amigoSecreto.png" alt="Logo del Proyecto" width="300">
+
+
+<table>
+  <tr>
+    <td>
+      <img src="media/amigoSecreto.png" alt="Logo del Proyecto" width="200">
+    </td>
+    <td>
+      <strong> Descripción:</strong><br>
+      Aplicación web sencilla para organizar y realizar un sorteo de <b>Amigo Secreto</b>.  
+      Permite agregar nombres a una lista, validarlos y mostrar el resultado del sorteo de forma aleatoria.  
+      <br><br>
+      <strong></strong> <img src="https://img.shields.io/badge/Estado-en%20desarrollo-yellow" alt="Estado del Proyecto"><br>
+      <strong>Tecnologías:</strong> HTML, CSS, JavaScript (ES6)<br>
+      <strong>Autor:</strong> Tu Nombre
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
