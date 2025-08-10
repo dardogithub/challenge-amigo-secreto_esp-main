@@ -7,19 +7,11 @@
 
 ---
 
-#  Mi Proyecto Increíble
+#  Proyecto: Amigo Secreto
 
 ![Logo del Proyecto](ruta/a/tu/logo.png)
 
 > Una breve descripción de lo que hace tu proyecto.
-
----
-
-## Datos del proyecto
-
-- Autor: 
-- Repositorio: [dardogithub](https://github.com/dardogithub/challenge-amigo-secreto_esp-main)
-- Descripción:
 
 ---
 
@@ -38,8 +30,8 @@
 
 ##  Descripción del Proyecto
 
-Este proyecto tiene como objetivo [explicar brevemente el propósito del proyecto].  
-Está diseñado para [mencionar el público objetivo o el problema que resuelve].
+Aplicación web sencilla para organizar y realizar un sorteo de **Amigo Secreto**.  
+Permite agregar nombres a una lista, validarlos y mostrar en pantalla el resultado del sorteo de manera aleatoria.
 
 ---
 
