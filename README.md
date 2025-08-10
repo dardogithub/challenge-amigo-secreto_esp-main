@@ -7,10 +7,7 @@
 
 ---
 
-#  Proyecto: Amigo Secreto  ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
-
-<img src="media/amigoSecreto.png" alt="Logo del Proyecto" width="300">
-
+#  Proyecto: Amigo Secreto 
 
 <table>
   <tr>
@@ -28,28 +25,6 @@
     </td>
   </tr>
 </table>
-
-
-
----
-
-##  Índice
-
-1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Características](#características)
-4. [Demostración](#demostración)
-5. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-6. [Instalación y Uso](#Instalación-y-Uso)
-8. [Licencia](#licencia)
-
----
-
-## Descripción del Proyecto
-
-Aplicación web sencilla para organizar y realizar un sorteo de **Amigo Secreto**.  
-Permite agregar nombres a una lista, validarlos y mostrar en pantalla el resultado del sorteo de manera aleatoria.
-
-Actualmente se encuentra **en proceso de desarrollo**, por lo que el código seguirá mejorándose y optimizándose en el futuro.
 
 ---
 
@@ -71,16 +46,6 @@ Puedes ver una demostración en vivo aquí: [Enlace a la demo]
 
 ---
 
-##  Tecnologías Utilizadas
-
-- **HTML5** → estructura y contenido de la página.
-- **CSS3** → estilos y diseño visual.
-- **JavaScript (ES6)** → lógica de la aplicación y manejo del DOM.
-- **Git** → control de versiones.
-- **Visual Studio Code** → editor de código.
-
----
-
 ##  Instalación y Uso
 
 ### Instalación
@@ -88,8 +53,8 @@ Puedes ver una demostración en vivo aquí: [Enlace a la demo]
 Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/usuario/nombre-del-repo.git
+   ```
+   git clone https://github.com/dardogithub/challenge-amigo-secreto_esp-main.git
 2. Abre la carpeta del proyecto.
 3. Abre el archivo index.html en tu navegador.
 
