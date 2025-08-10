@@ -1,8 +1,7 @@
----
 <h1 align="center">dardogithub</h1>
 
 <p align="center">
-  <img src="media/dardogithub.gif" alt="dardogithub" />
+  <img src="media/dardogithub.gif" alt="dardogithub" width="760" height="400" />
 </p>
 
 ---
@@ -16,12 +15,11 @@
     </td>
     <td>
       <strong> Descripción:</strong><br>
-      Aplicación web sencilla para organizar y realizar un sorteo de <b>Amigo Secreto</b>.  
+      Aplicación web para realizar un sorteo de Amigo Secretos.  
       Permite agregar nombres a una lista, validarlos y mostrar el resultado del sorteo de forma aleatoria.  
       <br><br>
       <strong></strong> <img src="https://img.shields.io/badge/Estado-en%20desarrollo-yellow" alt="Estado del Proyecto"><br>
       <strong>Tecnologías:</strong> HTML, CSS, JavaScript (ES6)<br>
-      <strong>Autor:</strong> Tu Nombre
     </td>
   </tr>
 </table>
@@ -41,8 +39,6 @@
 ##  Demostración
 
 ![Captura de Pantalla](ruta/a/tu/captura.png)
-
-Puedes ver una demostración en vivo aquí: [Enlace a la demo]
 
 ---
 
