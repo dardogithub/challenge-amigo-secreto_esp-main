@@ -61,4 +61,13 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 4. Repite hasta añadir todos los nombres.
 5. Presiona "Sortear Amigo" para mostrar el resultado.
 
+### Créditos
+
+# Profesores: [Nombre del profesor o profesores], por la guía y soporte en el aprendizaje.
+
+# Organizaciones:
+
+[Nombre organización 1] — por brindar una formación de alta calidad en tecnología y desarrollo web.
+
+[Nombre organización 2] — por impulsar la innovación y conectar a estudiantes con oportunidades laborales en el sector tecnológico.
    
