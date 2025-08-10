@@ -65,7 +65,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ### Profesores: 
 
-[Christian Velascom, Leonardo Lacruz,Ellen Pimentel,Gabriela Aguiar,Priscila Stuani, Barbara.santos
+[Christian Velascom, Leonardo Lacruz,Ellen Pimentel,Gabriela Aguiar,Priscila Stuani, Barbara Santos
 , Jose Gonzalez] — por la guía y soporte en el aprendizaje.
 
 ### Organizaciones:
