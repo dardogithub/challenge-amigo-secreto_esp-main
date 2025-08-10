@@ -7,33 +7,35 @@
 
 ---
 
-#  Proyecto: Amigo Secreto
+#  Proyecto: Amigo Secreto  ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 
 ![Logo del Proyecto](ruta/a/tu/logo.png)
-
-> Una breve descripción de lo que hace tu proyecto.
 
 ---
 
 ##  Índice
 
 1. [Descripción del Proyecto](#descripción-del-proyecto)
-2. [Estado del Proyecto](#estado-del-proyecto)
-3. [Características](#características)
+2. [Características](#características)
 4. [Demostración](#demostración)
 5. [Tecnologías Utilizadas](#tecnologías-utilizadas)
-6. [Instalación](#instalación)
-7. [Contribución](#contribución)
+6. [Instalación y Uso](#Instalación-y-Uso)
 8. [Licencia](#licencia)
 
 ---
 
-##  Descripción del Proyecto ![Estado del Proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
+## Descripción del Proyecto
 
 Aplicación web sencilla para organizar y realizar un sorteo de **Amigo Secreto**.  
 Permite agregar nombres a una lista, validarlos y mostrar en pantalla el resultado del sorteo de manera aleatoria.
 
 Actualmente se encuentra **en proceso de desarrollo**, por lo que el código seguirá mejorándose y optimizándose en el futuro.
+
+
+
+---
+
+##  
 
 ---
 
