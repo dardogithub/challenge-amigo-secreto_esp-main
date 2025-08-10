@@ -61,13 +61,16 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 4. Repite hasta añadir todos los nombres.
 5. Presiona "Sortear Amigo" para mostrar el resultado.
 
-### Créditos
+## Créditos
 
-# Profesores: [Nombre del profesor o profesores], por la guía y soporte en el aprendizaje.
+### Profesores: 
 
-# Organizaciones:
+[Christian Velascom, Leonardo Lacruz,Ellen Pimentel,Gabriela Aguiar,Priscila Stuani, Barbara.santos
+, Jose Gonzalez] — por la guía y soporte en el aprendizaje.
 
-[Nombre organización 1] — por brindar una formación de alta calidad en tecnología y desarrollo web.
+### Organizaciones:
 
-[Nombre organización 2] — por impulsar la innovación y conectar a estudiantes con oportunidades laborales en el sector tecnológico.
+[Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.
+
+[ONE Oracle Next Education] — por impulsar la innovación y conectar a estudiantes con oportunidades laborales en el sector tecnológico.
    
