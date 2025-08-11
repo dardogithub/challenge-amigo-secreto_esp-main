@@ -5,8 +5,14 @@
 </p>
 
 ---
+<p align="center">
+  <a href="#caracteristicas">Características</a> •
+  <a href="#instalacion-y-uso">Instalación y Uso</a> •
+  <a href="#demostracion">Demostración</a> •
+  <a href="#creditos">Créditos</a> •
+</p>
 
-#  Proyecto: Amigo Secreto 
+# Proyecto: Amigo Secreto 
 
 <table>
   <tr>
@@ -35,7 +41,7 @@
 
 ---
 
-##  Características
+## Características
 
 - Interfaz simple y facil de usar
 - Permite agregar nombres de forma rápida
@@ -45,7 +51,7 @@
 
 ---
 
-##  Instalación y Uso
+## Instalación y Uso
 
 ### Instalación
 
@@ -66,7 +72,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ---
 
-##  Demostración
+## Demostración
 
 ![Captura de Pantalla](ruta/a/tu/captura.png)
 
