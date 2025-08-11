@@ -78,7 +78,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ![Captura de Pantalla](ruta/a/tu/captura.png)
 
-## Créditos
+## Creditos
 
 ### Profesores
 
