@@ -5,13 +5,15 @@
 </p>
 
 ---
+</p>
 <p align="center">
   <a href="#caracteristicas">Características</a> •
   <a href="#instalacion-y-uso">Instalación y Uso</a> •
   <a href="#demostracion">Demostración</a> •
   <a href="#creditos">Créditos</a> •
 </p>
-
+<p align="center">
+  
 # Proyecto: Amigo Secreto 
 
 <table>
