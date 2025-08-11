@@ -7,7 +7,7 @@
 ---
 </p>
 <p align="center">
-  <a href="#caracteristicas">Características</a> •
+  <a href="#Caracteristicas">Caracteristicas</a> •
   <a href="#instalacion-y-uso">Instalación y Uso</a> •
   <a href="#demostracion">Demostración</a> •
   <a href="#creditos">Créditos</a> •
@@ -43,7 +43,7 @@
 
 ---
 
-## Características
+## Caracteristicas
 
 - Interfaz simple y facil de usar
 - Permite agregar nombres de forma rápida
