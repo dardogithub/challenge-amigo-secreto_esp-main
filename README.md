@@ -72,12 +72,12 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ## Créditos
 
-### Profesores: 
+### Profesores
 
 [Christian Velascom, Leonardo Lacruz,Ellen Pimentel,Gabriela Aguiar,Priscila Stuani, Barbara Santos
 , Jose Gonzalez] — por la guía y soporte en el aprendizaje.
 
-### Organizaciones:
+### Organizaciones
 
 [Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.
 
