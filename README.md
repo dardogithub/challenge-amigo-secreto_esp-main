@@ -8,9 +8,9 @@
 </p>
 <p align="center">
   <a href="#Caracteristicas">Caracteristicas</a> •
-  <a href="#instalacion-y-uso">Instalación y Uso</a> •
-  <a href="#demostracion">Demostración</a> •
-  <a href="#creditos">Créditos</a> •
+  <a href="#instalacion-y-uso">Instalacion y Uso</a> •
+  <a href="#demostracion">demostracion</a> •
+  <a href="#creditos">creditos</a> •
 </p>
 <p align="center">
   
@@ -53,7 +53,7 @@
 
 ---
 
-## Instalación y Uso
+## Instalacion y Uso
 
 ### Instalación
 
@@ -74,7 +74,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ---
 
-## Demostración
+## Demostracion
 
 ![Captura de Pantalla](ruta/a/tu/captura.png)
 
