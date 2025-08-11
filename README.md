@@ -76,7 +76,10 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ## Demostracion
 
-![Captura de Pantalla](ruta/a/tu/captura.png)
+<p align="center">
+  
+![screenshot](media/demostracion.gif)
+</p>                   
 
 ## Creditos
 
