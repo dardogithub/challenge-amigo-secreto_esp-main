@@ -45,12 +45,6 @@
 
 ---
 
-##  Demostración
-
-![Captura de Pantalla](ruta/a/tu/captura.png)
-
----
-
 ##  Instalación y Uso
 
 ### Instalación
@@ -69,6 +63,12 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 3. Haz clic en "Adicionar" para agregarlo a la lista.
 4. Repite hasta añadir todos los nombres.
 5. Presiona "Sortear Amigo" para mostrar el resultado.
+
+---
+
+##  Demostración
+
+![Captura de Pantalla](ruta/a/tu/captura.png)
 
 ## Créditos
 
