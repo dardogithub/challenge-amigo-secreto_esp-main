@@ -83,21 +83,39 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ## Creditos
 
-### Profesores
+## 👩‍🏫 Instructores
+Agradecemos especialmente a los siguientes instructores por la guía y soporte en el aprendizaje.
 
-<a href="https://github.com/christianpva">
-  <img src="https://avatars.githubusercontent.com/u/29123800?v=4" width="100" style="clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);">
-</a>
+<p align="center">
+  <a href="https://github.com/christianpva" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/29123800?v=4&s=100" alt="Christian PVA" width="60" height="60" style="border-radius:50%; margin: 5px;">
+  </a>
+  <a href="https://github.com/ljcl79" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/4803845?v=4&s=100" alt="Luis J. C. L." width="60" height="60" style="border-radius:50%; margin: 5px;">
+  </a>
+  <a href="https://github.com/Ellen-code" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/71970858?v=4&s=100" alt="Ellen Code" width="60" height="60" style="border-radius:50%; margin: 5px;">
+  </a>
+  <a href="https://www.linkedin.com/in/gabyaguiar/" target="_blank">
+    <img src="https://www.gravatar.com/avatar/3aec5def2fade956e2fef2bf0360d196.png?r=PG&size=100x100&date=2025-08-11&d=https%3A%2F%2Fapp.aluracursos.com%2Fassets%2Fimages%2Fforum%2Favatar_g.png" alt="Gaby Aguiar" width="60" height="60" style="border-radius:50%; margin: 5px;">
+  </a>
+  <a href="https://www.linkedin.com/in/priscilastuani/" target="_blank">
+    <img src="https://cdn2.gnarususercontent.com.br/6/407544/74b1e355-698c-4676-aaba-f01525ee8a83.png?width=100&height=100&aspect_ratio=1:1" alt="Priscila Stuani" width="60" height="60" style="border-radius:50%; margin: 5px;">
+  </a>
+</p>
 
-<img src="" width="80">)](),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat)
-,[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat)
-
-
-
-[Christian Velascom, Leonardo Lacruz,Ellen Pimentel,Gabriela Aguiar,Priscila Stuani, Barbara Santos
-, Jose Gonzalez] — por la guía y soporte en el aprendizaje.
+---
 
 ### Organizaciones
+
+<p>
+  <a href="http://www.aluracursos.com/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
+      <img alt="BrowserStack logo" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
+    </picture>
+  </a>
+</p>
 
 [Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.
 
