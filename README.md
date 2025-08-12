@@ -85,6 +85,15 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ### Profesores
 
+<a href="https://github.com/christianpva">
+  <img src="https://avatars.githubusercontent.com/u/29123800?v=4" width="100" style="clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);">
+</a>
+
+<img src="" width="80">)](),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat)
+,[![octocat](https://github.com/octocat.png)](https://github.com/octocat),[![octocat](https://github.com/octocat.png)](https://github.com/octocat)
+
+
+
 [Christian Velascom, Leonardo Lacruz,Ellen Pimentel,Gabriela Aguiar,Priscila Stuani, Barbara Santos
 , Jose Gonzalez] — por la guía y soporte en el aprendizaje.
 
