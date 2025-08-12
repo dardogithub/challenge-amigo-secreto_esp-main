@@ -108,16 +108,17 @@ Agradecemos especialmente a los siguientes instructores por la guía y soporte e
 
 ### Organizaciones
 
-<p>
-  <a href="http://www.aluracursos.com/" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./admin/img/browserstack-dark-mode-logo.svg#gh-dark-mode-only">
-      <img alt="BrowserStack logo" src="./admin/img/browserstack-light-mode-logo.svg#gh-light-mode-only" height="50px" />
-    </picture>
-  </a>
-</p>
 
 [Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.
 
 [ONE Oracle Next Education] — por impulsar la innovación y conectar a estudiantes con oportunidades laborales en el sector tecnológico.
    
+<div style="display: inline-flex; align-items: center;">
+  <a href="https://www.linkedin.com/school/alura-latam/?originalSubdomain=br" target="_blank" style="display: inline-block;">
+    <img src="?r=PG&size=100x100&date=2025-08-11&d=https%3A%2F%2Fapp.aluracursos.com%2Fassets%2Fimages%2Fforum%2Favatar_g.png" 
+         alt="Gaby Aguiar" width="60" height="60" style="border-radius: 50%; margin-right: 10px;">
+  </a>
+  <span style="color: #444444; font-style: italic; user-select: none;">[Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.
+---
+    
+</div>
