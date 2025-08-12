@@ -83,7 +83,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
 ## Creditos
 
-## 👩‍🏫 Instructores
+## Instructores
 Agradecemos especialmente a los siguientes instructores por la guía y soporte en el aprendizaje.
 
 <p align="center">
