@@ -107,18 +107,25 @@ Agradecemos especialmente a los siguientes instructores por la guía y soporte e
 ---
 
 ### Organizaciones
-
-
-[Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.
-
-[ONE Oracle Next Education] — por impulsar la innovación y conectar a estudiantes con oportunidades laborales en el sector tecnológico.
-   
+ 
 <div style="display: inline-flex; align-items: center;">
   <a href="https://www.linkedin.com/school/alura-latam/?originalSubdomain=br" target="_blank" style="display: inline-block;">
-    <img src="?r=PG&size=100x100&date=2025-08-11&d=https%3A%2F%2Fapp.aluracursos.com%2Fassets%2Fimages%2Fforum%2Favatar_g.png" 
-         alt="Gaby Aguiar" width="60" height="60" style="border-radius: 50%; margin-right: 10px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGxDpCf6Cm0xQ/company-logo_200_200/company-logo_200_200/0/1701180993504/alura_latam_logo?e=1758153600&v=beta&t=czWE74lMguetJ2nv_0sJYRqpCFFI0l_fL-sfqIxaXe8" 
+         alt="alura-latam" width="60" height="60" style="border-radius: 50%; margin-right: 10px;">
   </a>
-  <span style="color: #444444; font-style: italic; user-select: none;">[Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.
----
-    
+  <span style="color: #444444; font-style: italic; user-select: none;">[Alura LATAM] — por brindar una formación de alta calidad en tecnología y desarrollo web.</span>
 </div>
+
+<br> <!-- Aquí está el salto de línea -->
+
+<div style="display: inline-flex; align-items: center;">
+  <a href="https://www.oracle.com/latam/education/oracle-next-education/" target="_blank" style="display: inline-block;">
+    <img src="https://www.oracle.com/a/ocom/img/rh03-one-logo-with-slogan-lad.png" 
+         alt="oracle-next-education" width="60" height="60" style="border-radius: 50%; margin-right: 10px;">
+  </a>
+  <span style="color: #444444; font-style: italic; user-select: none;">[ONE Oracle Next Education] — por impulsar la innovación y conectar a estudiantes con oportunidades laborales en el sector tecnológico.</span>
+</div>
+
+  
+    
+
