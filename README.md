@@ -5,6 +5,7 @@
 </p>
 
 ---
+
 </p>
 <p align="center">
   <a href="#Caracteristicas">Caracteristicas</a> •
@@ -39,7 +40,6 @@
     </td>
   </tr>
 </table>
-
 
 ---
 
