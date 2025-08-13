@@ -107,6 +107,9 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
     <a href="https://www.linkedin.com/in/priscilastuani/" target="_blank" style="display: inline-block; margin: 0 8px;">
       <img src="https://cdn2.gnarususercontent.com.br/6/407544/74b1e355-698c-4676-aaba-f01525ee8a83.png?width=100&height=100&aspect_ratio=1:1" alt="Priscila Stuani" width="60" height="60" style="border-radius: 50%;">
     </a>
+    <a href="https://github.com/JoseDarioGonzalezCha" target="_blank" style="display: inline-block; margin: 0 8px;">
+      <img src="https://avatars.githubusercontent.com/u/75937414?v=4" alt="Priscila Stuani" width="60" height="60" style="border-radius: 50%;">
+    </a>
   </p>
 
   <h3 style="text-align: center;">Organizaciones</h3>
