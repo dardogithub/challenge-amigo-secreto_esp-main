@@ -10,8 +10,8 @@
 <p align="center">
   <a href="#Caracteristicas">Caracteristicas</a> •
   <a href="#instalacion-y-uso">Instalacion y Uso</a> •
-  <a href="#demostracion">demostracion</a> •
-  <a href="#creditos">creditos</a> •
+  <a href="#demostracion">Demostracion</a> •
+  <a href="#creditos">Creditos</a> •
 </p>
 <p align="center">
   
