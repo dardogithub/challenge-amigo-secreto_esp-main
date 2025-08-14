@@ -89,7 +89,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en tu máquina local:
 
   <h3 style="text-align: center;">Instructores</h3>
   <p style="text-align: center; max-width: 600px; margin: 0 auto 20px auto;">
-    Agradecemos especialmente a los siguientes instructores por la guía y soporte en el aprendizaje.
+    Agradezco especialmente a los siguientes instructores por la guía y soporte en el aprendizaje.
   </p>
   <p style="text-align: center; margin-bottom: 40px;">
     <a href="https://github.com/christianpva" target="_blank" style="display: inline-block; margin: 0 8px;">
